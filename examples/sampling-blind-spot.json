@@ -1,0 +1,9 @@
+{
+  "length_mm": 120,
+  "width_mm": 80,
+  "pad_diameter_mm": 40,
+  "max_pitch_mm": 24,
+  "end_inset_mm": 18,
+  "side_inset_mm": 12,
+  "sample_step_mm": 16
+}

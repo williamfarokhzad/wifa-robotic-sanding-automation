@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+<rect width="640" height="480" rx="18" fill="#edf7f4"/>
+<g font-family="DejaVu Sans,sans-serif" fill="#123834">
+<text x="26" y="45" font-size="29" font-weight="bold">Four passes cover the plate</text>
+<text x="26" y="76" font-size="20">Top view · dimensions in millimetres</text>
+<clipPath id="plate"><rect x="70" y="100" width="480" height="320"/></clipPath>
+<rect x="70" y="100" width="480" height="320" fill="#ffdab8"/>
+<g clip-path="url(#plate)">
+<path d="M 102 140.0 H 518" stroke="#83cdb9" stroke-width="160.0" stroke-linecap="round"/>
+<path d="M 102 220.0 H 518" stroke="#83cdb9" stroke-width="160.0" stroke-linecap="round"/>
+<path d="M 102 300.0 H 518" stroke="#83cdb9" stroke-width="160.0" stroke-linecap="round"/>
+<path d="M 102 380.0 H 518" stroke="#83cdb9" stroke-width="160.0" stroke-linecap="round"/>
+<path d="M 102 140.0 H 518" stroke="#235b52" stroke-width="3" stroke-dasharray="8 5"/>
+<path d="M 102 220.0 H 518" stroke="#235b52" stroke-width="3" stroke-dasharray="8 5"/>
+<path d="M 102 300.0 H 518" stroke="#235b52" stroke-width="3" stroke-dasharray="8 5"/>
+<path d="M 102 380.0 H 518" stroke="#235b52" stroke-width="3" stroke-dasharray="8 5"/>
+</g>
+<path d="M 70 420 V 100 H 550" fill="none" stroke="#123834" stroke-width="3"/>
+<path d="M 70 420 H 550 V 100" fill="none" stroke="#123834" stroke-width="3"/>
+<text x="74" y="454" font-size="21">Green: swept pad · Dashed: center passes</text>
+</g>
+</svg>
